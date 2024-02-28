@@ -125,7 +125,7 @@ collections:
         widget: "markdown"
     editor:
       preview: false
-    summary: "{{name}} - {{artista}}"
+    summary: "{{titulo}} de {{artista}} en {{exposicion}}"
   - name: "esculture"
     slug: "{{slug}}"
     identifier_field: titulo
