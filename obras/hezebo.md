@@ -1,7 +1,8 @@
 ---
 titulo: Hezebo
 artista: Fertxu Martínez
-exposicion: Clara Campoamor
+exposicion:
+  - Clara Campoamor
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695458027/artistas/Fertxu%20Mart%C3%ADnez/Hezebo/P1060881.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1695458043/artistas/Fertxu%20Mart%C3%ADnez/Hezebo/Sin_t%C3%ADtulo-1.mp4
 galeria:

@@ -1,7 +1,8 @@
 ---
 titulo: Erroa I
 artista: Fertxu Martínez
-exposicion: Clara Campoamor
+exposicion:
+  - Clara Campoamor
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695931898/artistas/Fertxu%20Mart%C3%ADnez/Erroa%20I/P1070120.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1696105872/artistas/Fertxu%20Mart%C3%ADnez/Erroa%20I/Sin_t%C3%ADtulo_1.mp4
 galeria:

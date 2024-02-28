@@ -1,7 +1,8 @@
 ---
 titulo: Tocedo
 artista: Fertxu Martínez
-exposicion: Clara Campoamor
+exposicion:
+  - Clara Campoamor
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695671864/artistas/Fertxu%20Mart%C3%ADnez/Tocedo/P1060896.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1695671853/artistas/Fertxu%20Mart%C3%ADnez/Tocedo/Sin_t%C3%ADtulo_1.mp4
 galeria:

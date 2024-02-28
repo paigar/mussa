@@ -1,7 +1,8 @@
 ---
 titulo: Erroa II
 artista: Fertxu Martínez
-exposicion: Clara Campoamor
+exposicion:
+  - Clara Campoamor
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695932520/artistas/Fertxu%20Mart%C3%ADnez/Erroa%20II/P1070100.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1696180561/artistas/Fertxu%20Mart%C3%ADnez/Erroa%20II/Sin_t%C3%ADtulo-1.mp4
 galeria:

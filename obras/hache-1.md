@@ -1,7 +1,8 @@
 ---
 titulo: Hache
 artista: Fertxu Martínez
-exposicion: Clara Campoamor
+exposicion:
+  - Clara Campoamor
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695467674/artistas/Fertxu%20Mart%C3%ADnez/Hache/P1060862.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1695467667/artistas/Fertxu%20Mart%C3%ADnez/Hache/project.mp4
 galeria:

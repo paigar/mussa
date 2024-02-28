@@ -1,7 +1,8 @@
 ---
 titulo: Erratzu
 artista: Fertxu Martínez
-exposicion: Clara Campoamor
+exposicion:
+  - Clara Campoamor
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695463462/artistas/Fertxu%20Mart%C3%ADnez/Erratzu/P1060842.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1695463454/artistas/Fertxu%20Mart%C3%ADnez/Erratzu/Sin_t%C3%ADtulo_1-3.mp4
 galeria:

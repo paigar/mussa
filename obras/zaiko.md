@@ -1,7 +1,8 @@
 ---
 titulo: Zaiko
 artista: Fertxu Martínez
-exposicion: Clara Campoamor
+exposicion:
+  - Clara Campoamor
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695676758/artistas/Fertxu%20Mart%C3%ADnez/Zaiko/P1070006.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1695676754/artistas/Fertxu%20Mart%C3%ADnez/Zaiko/project.mp4
 galeria:

@@ -1,7 +1,8 @@
 ---
 titulo: Tembo
 artista: Fertxu Martínez
-exposicion: Clara Campoamor
+exposicion:
+  - Clara Campoamor
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695471381/artistas/Fertxu%20Mart%C3%ADnez/Tembo/P1060937.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1695471371/artistas/Fertxu%20Mart%C3%ADnez/Tembo/Sin_t%C3%ADtulo.mp4
 galeria:

@@ -1,7 +1,8 @@
 ---
 titulo: Eraon
 artista: Fertxu Martínez
-exposicion: Clara Campoamor
+exposicion:
+  - Clara Campoamor
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695674604/artistas/Fertxu%20Mart%C3%ADnez/Draon/P1060952.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1695674597/artistas/Fertxu%20Mart%C3%ADnez/Draon/Sin_t%C3%ADtulo-1.mp4
 galeria:

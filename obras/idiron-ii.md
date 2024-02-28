@@ -1,7 +1,8 @@
 ---
 titulo: Idiron II
 artista: Fertxu Martínez
-exposicion: Clara Campoamor
+exposicion:
+  - Clara Campoamor
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695571502/artistas/Fertxu%20Mart%C3%ADnez/Idiron%20II/P1070027.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1695571495/artistas/Fertxu%20Mart%C3%ADnez/Idiron%20II/project-1.mp4
 galeria:
