@@ -1,0 +1,23 @@
+---
+titulo: Artistas
+permalink: "/artistas/"
+layout: layouts/contenido.njk
+eleventyExcludeFromCollections: true
+eleventyNavigation:
+  key: Artistas
+  order: 3
+---
+<div class="contenedor">
+
+  <div class="artistas">
+    <h1 class="titulo fs3">{{ titulo }}</h1>
+
+    {% set listado = collections.artistas %}
+    {% include "layouts/partials/listado.njk" %}
+
+  </div>
+</div>
+
+<br/><br/><br/><br/>
+
+{% include "layouts/partials/enlace_contacto.njk" %}

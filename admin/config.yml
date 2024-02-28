@@ -1,0 +1,112 @@
+backend:
+  name: git-gateway
+  branch: master
+locale: "es"
+media_folder: "assets/images"
+public_folder: "/assets/images"
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: dasijlpgz
+    api_key: 338213514969289
+collections:
+  - name: "artistas"
+    slug: "{{slug}}"
+    identifier_field: nombre
+    label: "Artistas"
+    folder: "artistas"
+    create: true
+    fields:
+      - label: "Nombre del Artista"
+        name: "nombre"
+        widget: "string"
+      - label: "Imagen principal"
+        name: "imagen"
+        widget: "image"
+        choose_url: false
+        allow_multiple: false
+      - label: "Página web"
+        name: "paginaweb"
+        widget: "string"
+        required: false
+      - label: "Correo electrónico"
+        name: "email"
+        widget: "string"
+        required: false
+      - label: "Teléfono"
+        name: "telefono"
+        widget: "string"
+        required: false
+      - label: "Instagram"
+        name: "instagram"
+        widget: "string"
+        required: false
+      - label: "Biografía del artista"
+        name: "body"
+        widget: "markdown"
+    editor:
+      preview: false
+  - name: "obras"
+    slug: "{{slug}}"
+    identifier_field: titulo
+    label: "Obras"
+    folder: "obras"
+    create: true
+    fields:
+      - label: "Título de la Obra"
+        name: "titulo"
+        widget: "string"
+      - label: "Autor"
+        name: "artista"
+        widget: "relation"
+        collection: "artistas"
+        search_fields: ["nombre"]
+        value_field: "nombre"
+        display_fields: ["nombre"]
+      - label: "Precio"
+        name: "precio"
+        widget: "string"
+        required: false
+      - label: "Imagen principal"
+        name: "imagen"
+        widget: "image"
+        choose_url: false
+        allow_multiple: false
+      - label: "Vídeo de la obra"
+        name: "video"
+        widget: "file"
+        choose_url: false
+        allow_multiple: false
+      - label: "Galería de imágenes"
+        name: "galeria"
+        widget: "image"
+        choose_url: false
+        allow_multiple: true
+        media_library:
+          config:
+            multiple: true
+      - label: "Descipción de la obra"
+        name: "body"
+        widget: "markdown"
+    editor:
+      preview: false
+  - name: "esculture"
+    slug: "{{slug}}"
+    identifier_field: titulo
+    label: "Esculture"
+    folder: "esculture"
+    create: true
+    fields:
+      - label: "Título"
+        name: "titulo"
+        widget: "string"
+      - label: "Imagen principal"
+        name: "imagen"
+        widget: "image"
+        choose_url: false
+        allow_multiple: false
+      - label: "Texto"
+        name: "body"
+        widget: "markdown"
+    editor:
+      preview: false

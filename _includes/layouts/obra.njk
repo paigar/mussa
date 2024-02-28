@@ -1,0 +1,90 @@
+---
+layout: layouts/base.njk
+templateClass: obra
+---
+{% if video %}
+  <div class="imagencabecera">
+    <video class="videohome" id="videohome" poster="{{ imagen }}" autoplay="" loop="" muted="" playsinline="" preload="auto"  src="{{ video }}"></video>
+  </div>
+{% else %}
+  <div class="imagencabecera cubrir">
+    <img src="{{ imagen }}" alt="{{ titulo }}">
+  </div>
+{% endif %}
+
+<div class="contenedor detallesobra">
+
+  <div class="tituloizq">
+    <h1 class="fs5 marcaagua">{{ artista }}</h1>
+    <h2 class="fs3 titulo">
+      {{ titulo }}
+      {% if precio %}
+        <span>{{ precio }} €</span>{% endif %}
+    </h2>
+    <div class="contenido">
+      <div class="infoobra">
+        <ul>
+          <li>Autor: <a href="/artistas/{{artista | slugify }}">{{ artista }}</a>
+          </li>
+          {% if exposicion %}
+            <li>Exposición: <a href="/artistas/{{artista | slugify }}/{{ exposicion | slugify }}">{{ exposicion }}</a>
+            </li>
+          {% endif %}
+        </ul>
+      </div>
+      {{ content | safe }}
+    </div>
+  </div>
+
+</div>
+
+<div class="contenedor">
+  <div class="main-carousel" data-flickity='{ "autoPlay": "true", "contain": "true", "dragThreshold": 25 }'>
+    {% for imagen in galeria %}
+      <div class="carousel-cell">
+        <img src="{{imagen}}" alt="">
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="contenedor contacto">
+  {% if precio %}
+    <h2>¿Quieres comprar esta obra?</h2>
+  {% else %}
+    <h2>¿Quieres dejar un comentario?</h2>
+  {% endif %}
+  <br/>
+  <div class="formulario">
+    <form enctype="multipart/form-data" action="http://forms.esculture.es/enviar.php/" method="POST" id ="escultureform">
+      <div class="doscol">
+        <div>
+          <input title="Mínimo 3 caracteres" name="nombre" pattern=".{3,}" required="" type="text" placeholder="* Nombre">
+          <input title="Mínimo 3 caracteres" name="apellidos" pattern=".{3,}" class="oculto" type="text" placeholder="Apellidos">
+          <input title="Formato de email no válido" name="email" pattern="[^@\s]+@[^@\s]+\.[^@\s]+" required="" type="text" placeholder="* Mail">
+          <input name="telefono" type="text" placeholder="Teléfono"></div>
+        <div>
+          {% if precio %}
+            <textarea name="tema" rows="4" disabled>Estoy interesad@ en comprar la obra "{{ titulo }}" al precio de {{ precio }} €</textarea>
+          {% else %}
+            <textarea name="tema" rows="4" placeholder="Comentarios"></textarea>
+          {% endif %}
+        </div>
+        <div>
+          <div class="legal"><input id="legal" required="" type="checkbox">
+            <label for="legal">Acepto la <a href="/politica-de-privacidad" target="_blank" rel="noopener">política de privacidad</a>
+            </label>
+          </div>
+        </div>
+        <div class="enviar">
+          <input type="hidden" name="secreto" value="US6nUxG8kkYp^K5XQJyz">
+          <input type="hidden" name="asunto" value='Estoy interesado en la obra "{{ titulo }}"'>
+          <button type="submit">Enviar</button>
+        </div>
+      </div>
+    </form>
+  </div>
+
+</div>
+
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>

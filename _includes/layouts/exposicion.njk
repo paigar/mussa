@@ -1,0 +1,64 @@
+---
+layout: layouts/base.njk
+templateClass: artista
+---
+
+{% if imagen %}
+  <div class="imagencabecera cubrir">
+    <img src="{{ imagen }}" alt="{{ titulo }}">
+  </div>
+{% endif %}
+
+<div class="contenedor">
+  <div class="articulo">
+    <h1 class="titulo fs4">{{ titulo }}</h1>
+    <h2 class="artistadelaexposicion">por <a href="/artistas/{{artista | slugify }}">{{ artista }}</a>
+    </h2>
+    <div class="barraizq">
+      <div class="contenido">
+        {{ content | safe }}
+      </div>
+      {#       <div class="infoautor">
+        {% if paginaweb %}
+          <div>
+            {% include 'icons/web.svg' %}
+            <a href="https://{{ paginaweb }}" target="_blank">{{ paginaweb }}</a>
+          </div>
+        {% endif %}
+        {% if email %}
+          <div>
+            {% include 'icons/email.svg' %}
+            <a href="mailto:{{ email }}"  target="_blank">{{ email }}</a>
+          </div>
+        {% endif %}
+        {% if telefono %}
+          <div>
+            {% include 'icons/phone.svg' %}
+            <a href="tel:+34{{ telefono }}">{{ telefono }}</a>
+          </div>
+        {% endif %}
+        {% if instagram %}
+          <div>
+            {% include 'icons/ig.svg' %}
+            <a href="https://www.instagram.com/{{ instagram }}" target="_blank">@{{ instagram }}</a>
+          </div>
+        {% endif %}
+                <div>
+          {% include 'icons/art.svg' %}
+          <a href="#obrasautor">Ver obras</a>
+        </div>
+      </div> #}
+    </div>
+  </div>
+</div>
+
+<div class="gris">
+  <a class="ancla" id="obrasexposicion"></a>
+  <div class="contenedor">
+    <h2 class="fs3">Obras en {{ titulo }}</h2>
+
+    {% set listado = collections.obras %}
+    {% include "layouts/partials/obrasexposicion.njk" %}
+
+  </div>
+</div>

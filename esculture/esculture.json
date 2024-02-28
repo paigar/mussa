@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/articulo.njk",
+  "permalink": "/{{ titulo | slugify }}/"
+}

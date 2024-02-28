@@ -1,0 +1,13 @@
+<div class="listado">
+  {% for elemento in listado %}
+    <div class="elemento">
+      <a class="cubrir" href="{{ elemento.url }}">
+        <img class="imglistado" src="{{ elemento.data.imagen }}" alt="">
+        <span class="nombre">
+          {{ elemento.data.nombre }}
+          {{ elemento.data.titulo }}
+        </span>
+      </a>
+    </div>
+  {% endfor %}
+</div>

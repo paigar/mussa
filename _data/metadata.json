@@ -1,0 +1,21 @@
+{
+  "title": "Esculture",
+  "url": "https://www.mussaart.com/",
+  "language": "es",
+  "description": "Un acercamiento más personal a la escultura",
+  "feed": {
+    "subtitle": "Un acercamiento más personal a la escultura.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://www.mussaart.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://www.mussaart.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Juanjo Marcos",
+    "email": "juanjo@paigar.es",
+    "url": "https://www.paigar.es"
+  }
+}
