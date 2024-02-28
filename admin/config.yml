@@ -46,6 +46,7 @@ collections:
         widget: "markdown"
     editor:
       preview: false
+    sortable_fields: ["nombre"]
   - name: "exposiciones"
     slug: "{{slug}}"
     identifier_field: titulo
@@ -73,6 +74,8 @@ collections:
         widget: "markdown"
     editor:
       preview: false
+    summary: "{{titulo}}  -----  {{artista}}"
+    sortable_fields: ["titulo", "artista"]
   - name: "obras"
     slug: "{{slug}}"
     identifier_field: titulo
@@ -125,7 +128,7 @@ collections:
         widget: "markdown"
     editor:
       preview: false
-    summary: "{{titulo}}  [ {{artista}} ]"
+    summary: "{{titulo}}  -----  {{artista}}"
     sortable_fields: ["titulo", "artista"]
   - name: "esculture"
     slug: "{{slug}}"
@@ -147,3 +150,4 @@ collections:
         widget: "markdown"
     editor:
       preview: false
+    sortable_fields: ["titulo"]
