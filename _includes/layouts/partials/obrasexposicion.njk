@@ -1,15 +1,17 @@
 <div class="listado">
   {%for elemento in listado %}
-    {% if elemento.data.exposicion == titulo %}
-      <div class="elemento">
-        <a class="cubrir" href="{{ elemento.url }}">
-          <img class="imglistado" src="{{ elemento.data.imagen }}" alt="">
-          <span class="nombre">
-            {{ elemento.data.nombre }}
-            {{ elemento.data.titulo }}
-          </span>
-        </a>
-      </div>
-    {% endif %}
+    {% for expo in elemento.data.exposicion %}
+      {% if expo == titulo %}
+        <div class="elemento">
+          <a class="cubrir" href="{{ elemento.url }}">
+            <img class="imglistado" src="{{ elemento.data.imagen }}" alt="">
+            <span class="nombre">
+              {{ elemento.data.nombre }}
+              {{ elemento.data.titulo }}
+            </span>
+          </a>
+        </div>
+      {% endif %}
+    {% endfor %}
   {% endfor %}
 </div>
