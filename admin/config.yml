@@ -128,8 +128,8 @@ collections:
         widget: "markdown"
     editor:
       preview: false
-    summary: "{{titulo}}  -----  {{artista}}"
-    sortable_fields: ["titulo", "artista"]
+    summary: "{{titulo}}  -----  {{artista}}  -----  {{exposicion}}"
+    sortable_fields: ["titulo", "artista", "exposicion"]
   - name: "esculture"
     slug: "{{slug}}"
     identifier_field: titulo
