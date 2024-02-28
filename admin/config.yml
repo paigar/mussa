@@ -133,7 +133,7 @@ collections:
   - name: "esculture"
     slug: "{{slug}}"
     identifier_field: titulo
-    label: "Mussa"
+    label: "General"
     folder: "esculture"
     create: true
     fields:
