@@ -61,8 +61,7 @@ templateClass: artista
   <div class="gris dark">
     <a class="ancla" id="exposicionesautor"></a>
     <div class="contenedor">
-      <h2 class="fs3">
-        {{ nombre }}</h2>
+      <h2 class="fs3">Exposiciones de {{ nombre }}</h2>
 
       {% set listado = collections.exposicion %}
       {% include "layouts/partials/exposicionesartista.njk" %}
