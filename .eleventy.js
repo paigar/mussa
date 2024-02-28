@@ -10,6 +10,8 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 
 const embedYouTube = require("eleventy-plugin-youtube-embed");
 
+const { minify } = require("terser");
+
 module.exports = function (eleventyConfig) {
   // Copy the `img` and `css` folders to the output
   eleventyConfig.addPassthroughCopy("assets");
@@ -59,6 +61,20 @@ module.exports = function (eleventyConfig) {
   }
 
   eleventyConfig.addFilter("filterTagList", filterTagList);
+
+  eleventyConfig.addNunjucksAsyncFilter(
+    "jsmin",
+    async function (code, callback) {
+      try {
+        const minified = await minify(code);
+        callback(null, minified.code);
+      } catch (err) {
+        console.error("Terser error: ", err);
+        // Fail gracefully.
+        callback(null, code);
+      }
+    }
+  );
 
   // Create an array of all tags
   eleventyConfig.addCollection("tagList", function (collection) {
