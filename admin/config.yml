@@ -46,6 +46,33 @@ collections:
         widget: "markdown"
     editor:
       preview: false
+  - name: "exposiciones"
+    slug: "{{slug}}"
+    identifier_field: titulo
+    label: "Exposiciones"
+    folder: "exposiciones"
+    create: true
+    fields:
+      - label: "Nombre de la Exposición"
+        name: "titulo"
+        widget: "string"
+      - label: "Autor"
+        name: "artista"
+        widget: "relation"
+        collection: "artistas"
+        search_fields: ["nombre"]
+        value_field: "nombre"
+        display_fields: ["nombre"]
+      - label: "Imagen principal"
+        name: "imagen"
+        widget: "image"
+        choose_url: false
+        allow_multiple: false
+      - label: "Descipción de la exposición"
+        name: "body"
+        widget: "markdown"
+    editor:
+      preview: false
   - name: "obras"
     slug: "{{slug}}"
     identifier_field: titulo
@@ -63,6 +90,13 @@ collections:
         search_fields: ["nombre"]
         value_field: "nombre"
         display_fields: ["nombre"]
+      - label: "Exposición"
+        name: "exposicion"
+        widget: "relation"
+        collection: "exposiciones"
+        search_fields: ["titulo"]
+        value_field: "titulo"
+        display_fields: ["titulo"]
       - label: "Precio"
         name: "precio"
         widget: "string"
@@ -93,7 +127,7 @@ collections:
   - name: "esculture"
     slug: "{{slug}}"
     identifier_field: titulo
-    label: "Esculture"
+    label: "Mussa"
     folder: "esculture"
     create: true
     fields:
