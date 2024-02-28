@@ -97,6 +97,7 @@ collections:
         search_fields: ["titulo"]
         value_field: "titulo"
         display_fields: ["titulo"]
+        multiple: true
       - label: "Precio"
         name: "precio"
         widget: "string"
