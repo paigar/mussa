@@ -92,7 +92,7 @@ select {
 }
 
 :root {
-  --cabecera-altura-ext: 6rem;
+  --cabecera-altura-ext: 5rem;
   --cabecera-clr-fondo: rgba(255, 255, 255, 1);
   --clr-fondo: #fff;
   --clr-texto-100: #f0f1f2;
@@ -550,7 +550,7 @@ main {
   margin-top: 1em;
 }
 .nosotros .contenido h2 {
-  background-color: var(--clr-accent);
+  background-color: var(--clr-texto-600);
   color: var(--clr-texto-100);
   padding: 0.7em 2.5rem;
   line-height: 1.2;
@@ -677,29 +677,26 @@ main {
   width: auto;
 }
 .pie {
-  background-color: var(--clr-accent);
-  color: var(--clr-texto-100);
+  background-color: #000;
+  color: white;
   padding-block: 10vmin;
   overflow: hidden;
 }
 .pie a {
-  color: var(--clr-texto-100);
+  color: white;
 }
-.logopie svg {
-  width: 100%;
-  max-width: 20rem;
+.logopie {
+  max-width: 60%;
+  aspect-ratio: 1;
+  background-color: var(--clr-accent);
+  border-radius: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-inline: auto;
 }
-.logopie .str0 {
-  stroke: var(--clr-accent);
-}
-.logopie .str1 {
-  stroke: var(--clr-texto-800);
-}
-.logopie .fil0 {
-  fill: var(--clr-texto-800);
-}
-.logopie .fil1 {
-  fill: var(--clr-accent);
+.logopie img {
+  max-width: 60%;
 }
 .infopie {
   text-align: center;
@@ -728,16 +725,16 @@ main {
   margin-bottom: 1rem;
 }
 .infopie .rrss svg {
-  fill: var(--clr-accent);
+  fill: white;
   height: 1.9rem;
 }
 .infopie .rrss a {
   display: grid;
   place-items: center;
-  background: var(--clr-texto-100);
+  background: var(--clr-accent);
   border-radius: 100%;
-  width: 3rem;
-  height: 3rem;
+  width: 3.5rem;
+  height: 3.5rem;
 }
 .contacto .doscol {
   display: grid;
@@ -894,10 +891,7 @@ main {
   font-size: var(--fs-3);
   background-color: rgba(0, 0, 0, 0.5);
 }
-.logopie img {
-  max-width: 50%;
-  margin-inline: auto;
-}
+
 .contenido lite-youtube {
   width: 100%;
   max-width: 70rem;
@@ -947,8 +941,7 @@ main {
     align-items: center;
     text-align: left;
   }
-  .logopie img {
-    max-width: 60%;
+  .logopie {
     margin-left: 0;
   }
   .listado {
