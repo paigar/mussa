@@ -8,7 +8,7 @@ Edozein bidaia ekipaje prestatzerakoan hasten da.
 
 Bidaia honetan oso ezberdinak diren diziplina bi maletan sartu gura izan dodaz.
 
-Eskultura + Musika.
+**Eskultura + Musika.**
 
 Eskulturan egindako ibilbidean, garrantzi haundia emon dotset hutsuneak mugatzen dabezen bolumenei.
 
@@ -16,15 +16,13 @@ Era berean, musikan beti liluratu naute noten artean dirauten isilune esangurats
 
 Izan ere, mundu bi hoiek nahasterakoan, fonoeskultura sortzen jata; bidaiatzeko eta adierazteko modu barri bat...
 
-"huts - ozenak"
-
-
+**"huts - ozenak"**
 
 *Todo viaje empieza al preparar el equipaje que llevarás a cuestas.*
 
 *En este viaje he querido meter en la maleta dos disciplinas, en principio muy diferentes, para caminar junto a ellas.*
 
-*Escultura + Música.*
+***Escultura + Música.***
 
 *En la trayectoria escultórica, le he dado mucha importancia a los volúmenes que delimitan vacíos.*
 
@@ -32,4 +30,4 @@ Izan ere, mundu bi hoiek nahasterakoan, fonoeskultura sortzen jata; bidaiatzeko 
 
 *De esta manera, al mezclar estos dos mundos, me nace la fonoescultura; una nueva forma de viajar, de expresarme…*
 
-*«vacíos – sonoros»*
+***«vacíos – sonoros»***
