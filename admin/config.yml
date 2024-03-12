@@ -100,7 +100,7 @@ collections:
         search_fields: ["titulo"]
         value_field: "titulo"
         display_fields: ["titulo"]
-        multiple: true,
+        multiple: true
         required: false
       - label: "Precio"
         name: "precio"
