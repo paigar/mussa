@@ -1,23 +1,25 @@
 ---
-titulo: Soinu - eklipsea?
+titulo: Noiztik dekozu harrizko bihotza?
 artista: Urbela Brouard
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1710352363/artistas/Urbela/Soinu%20-%20eklipsea/P1090238.jpg
-video: https://res.cloudinary.com/dasijlpgz/video/upload/v1710352403/artistas/Urbela/Soinu%20-%20eklipsea/project.mp4
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1710353929/artistas/Urbela/Noiztik%20dekozu%20harrizko%20bihotza/P1090264.jpg
+video: https://res.cloudinary.com/dasijlpgz/video/upload/v1710353902/artistas/Urbela/Noiztik%20dekozu%20harrizko%20bihotza/obra1_-_copia.mp4
 galeria:
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1710352351/artistas/Urbela/Soinu%20-%20eklipsea/P1090235.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1710352357/artistas/Urbela/Soinu%20-%20eklipsea/P1090236.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1710352370/artistas/Urbela/Soinu%20-%20eklipsea/P1090240.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1710352363/artistas/Urbela/Soinu%20-%20eklipsea/P1090238.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1710352392/artistas/Urbela/Soinu%20-%20eklipsea/P1090246.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1710352385/artistas/Urbela/Soinu%20-%20eklipsea/P1090242.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1710352377/artistas/Urbela/Soinu%20-%20eklipsea/P1090241.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1710353906/artistas/Urbela/Noiztik%20dekozu%20harrizko%20bihotza/P1090257.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1710353937/artistas/Urbela/Noiztik%20dekozu%20harrizko%20bihotza/P1090265.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1710353946/artistas/Urbela/Noiztik%20dekozu%20harrizko%20bihotza/P1090267.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1710353962/artistas/Urbela/Noiztik%20dekozu%20harrizko%20bihotza/P1090271.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1710353970/artistas/Urbela/Noiztik%20dekozu%20harrizko%20bihotza/P1090272.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1710353955/artistas/Urbela/Noiztik%20dekozu%20harrizko%20bihotza/P1090268.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1710353929/artistas/Urbela/Noiztik%20dekozu%20harrizko%20bihotza/P1090264.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1710353920/artistas/Urbela/Noiztik%20dekozu%20harrizko%20bihotza/P1090261.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1710353913/artistas/Urbela/Noiztik%20dekozu%20harrizko%20bihotza/P1090258.jpg
 ---
-Soinu - eklipsea?
+Noiztik dekozu harrizko bihotza?
 
-Gaztainondo kiskalduta, ezpela, eta aretza
+Gaztainondozko kordofonoa
 
-*¿Eclipse sonoro?*
+*¿Desde cuándp tienes el corazón de piedra?*
 
-*Castaño calcinado, boj y roble*
+*Cordófono de castaño*
 
-38 Ø
+https://youtu.be/1dgqC2hAqlo?si=siXGbrFV42Su7tIO
