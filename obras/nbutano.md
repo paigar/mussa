@@ -3,7 +3,7 @@ titulo: Nbutano
 artista: Fertxu Martínez
 exposicion:
   - ahgo
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1713290112/artistas/Fertxu%20Mart%C3%ADnez%20-%20Expo%20en%20Santurtxi/Nbutano/P1090306.jpg
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1713702224/artistas/Fertxu%20Mart%C3%ADnez%20-%20Expo%20en%20Santurtxi/Nbutano/portada_web.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1713290164/artistas/Fertxu%20Mart%C3%ADnez%20-%20Expo%20en%20Santurtxi/Nbutano/Sin_t%C3%ADtulo_1.mp4
 galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1713290112/artistas/Fertxu%20Mart%C3%ADnez%20-%20Expo%20en%20Santurtxi/Nbutano/P1090306.jpg
