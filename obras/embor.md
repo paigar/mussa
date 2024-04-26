@@ -2,7 +2,7 @@
 titulo: Embor
 artista: Fertxu Martínez
 exposicion:
-  - Clara Campoamor
+  - ahgo
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695573956/artistas/Fertxu%20Mart%C3%ADnez/Embor/P1060990.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1695573948/artistas/Fertxu%20Mart%C3%ADnez/Embor/Sin_t%C3%ADtulo_1_1-2.mp4
 galeria:
