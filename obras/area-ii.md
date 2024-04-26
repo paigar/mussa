@@ -1,6 +1,8 @@
 ---
 titulo: Area II
 artista: Fertxu Martínez
+exposicion:
+  - ahgo
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1685373187/artistas/Fertxu%20Mart%C3%ADnez/Area%20II/P1050735.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1685373202/artistas/Fertxu%20Mart%C3%ADnez/Area%20II/project-1.mp4
 galeria:
