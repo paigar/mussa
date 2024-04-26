@@ -1,6 +1,8 @@
 ---
 titulo: Bodovalle
 artista: Fertxu Martínez
+exposicion:
+  - ahgo
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1694026799/artistas/Fertxu%20Mart%C3%ADnez/Bodovalle/P1060274.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1694026744/artistas/Fertxu%20Mart%C3%ADnez/Bodovalle/Sin_t%C3%ADtulo_1-1.mp4
 galeria:
