@@ -2,7 +2,7 @@
 titulo: Covid
 artista: Fertxu Martínez
 exposicion:
-  - Clara Campoamor
+  - ahgo
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695930634/artistas/Fertxu%20Mart%C3%ADnez/Covid/P1070065.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1696105774/artistas/Fertxu%20Mart%C3%ADnez/Covid/Sin_t%C3%ADtulo.mp4
 galeria:
