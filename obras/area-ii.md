@@ -16,10 +16,10 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1685373187/artistas/Fertxu%20Mart%C3%ADnez/Area%20II/P1050739.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1685373188/artistas/Fertxu%20Mart%C3%ADnez/Area%20II/P1050746.jpg
 ---
+Area II
+
 R﻿oble, hierro / Haritza, burdina.
 
-l﻿argoxanchoxalto (cm)
-
-2﻿3x17x59
+2﻿3x17x59 cm
 
 1﻿994
