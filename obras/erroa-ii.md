@@ -16,8 +16,9 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1695932526/artistas/Fertxu%20Mart%C3%ADnez/Erroa%20II/P1070105.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1695932523/artistas/Fertxu%20Mart%C3%ADnez/Erroa%20II/P1070102.jpg
 ---
+Erroa II
 
-E﻿ncina
+Artadia / E﻿ncina
 
 8﻿0x75x50 cm
 
