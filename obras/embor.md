@@ -17,8 +17,9 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1695573959/artistas/Fertxu%20Mart%C3%ADnez/Embor/P1060996.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1695573958/artistas/Fertxu%20Mart%C3%ADnez/Embor/P1060995.jpg
 ---
+Embor
 
-H﻿ierro
+Burdina / H﻿ierro
 
 4﻿1x37x28 cm
 
