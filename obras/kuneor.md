@@ -18,3 +18,9 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1714164783/artistas/Fertxu%20Mart%C3%ADnez%20-%20Expo%20en%20Santurtxi/Kuneor/P1090393.jpg
 ---
 Kuneor
+
+Bronce
+
+20x18x17cm
+
+2024
