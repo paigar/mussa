@@ -18,7 +18,7 @@ galeria:
 ---
 B﻿odovalle
 
-H﻿ierro
+Brudina / H﻿ierro
 
 3﻿8x32x28cm
 
