@@ -16,8 +16,9 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1695930635/artistas/Fertxu%20Mart%C3%ADnez/Covid/P1070073.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1695930634/artistas/Fertxu%20Mart%C3%ADnez/Covid/P1070070.jpg
 ---
+Covid
 
-C﻿iprés
+Nekosta / C﻿iprés
 
 7﻿0x62x16 cm
 
