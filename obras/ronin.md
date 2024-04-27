@@ -18,8 +18,9 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1695462670/artistas/Fertxu%20Mart%C3%ADnez/Ronin/P1060935.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1695462664/artistas/Fertxu%20Mart%C3%ADnez/Ronin/P1060928.jpg
 ---
+Ronin
 
-C﻿erezo
+Gereziondoa / C﻿erezo
 
 75x28x18 cm
 
