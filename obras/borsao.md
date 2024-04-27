@@ -18,7 +18,7 @@ galeria:
 ---
 Borsao
 
-A﻿lmendro
+Arbendolondoa / A﻿lmendro
 
 5﻿4x32x28 cm
 
