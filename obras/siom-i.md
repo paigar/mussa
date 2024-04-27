@@ -14,4 +14,10 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1714236082/artistas/Fertxu%20Mart%C3%ADnez%20-%20Expo%20en%20Santurtxi/Siom1/P1090370.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1714236081/artistas/Fertxu%20Mart%C3%ADnez%20-%20Expo%20en%20Santurtxi/Siom1/P1090366.jpg
 ---
-Siom I
+Siom I.
+
+Zumarra, burdina / Olmo hierro
+
+40x32x15 cm
+
+2016
