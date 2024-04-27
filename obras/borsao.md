@@ -16,6 +16,7 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1694021984/artistas/Fertxu%20Mart%C3%ADnez/Borsao/P1060316.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1694021984/artistas/Fertxu%20Mart%C3%ADnez/Borsao/P1060321.jpg
 ---
+Borsao
 
 A﻿lmendro
 
