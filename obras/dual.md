@@ -13,3 +13,9 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1714162846/artistas/Fertxu%20Mart%C3%ADnez%20-%20Expo%20en%20Santurtxi/Dual/P1090354.jpg
 ---
 Dual
+
+Burdina / Hierro
+
+s/m
+
+2024
