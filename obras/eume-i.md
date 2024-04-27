@@ -15,3 +15,9 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1713291236/artistas/Fertxu%20Mart%C3%ADnez%20-%20Expo%20en%20Santurtxi/Eume%20I/P1090336.jpg
 ---
 Eume I
+
+Burdina / Hierro
+
+38x29x25
+
+2021
