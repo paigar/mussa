@@ -13,7 +13,7 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1713289387/artistas/Fertxu%20Mart%C3%ADnez%20-%20Expo%20en%20Santurtxi/Pallet/P1090292.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1713289386/artistas/Fertxu%20Mart%C3%ADnez%20-%20Expo%20en%20Santurtxi/Pallet/P1090285.jpg
 ---
-Palet
+Pallet
 
 Pinua / Pino
 
