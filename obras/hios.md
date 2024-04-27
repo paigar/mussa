@@ -15,8 +15,9 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1695301916/artistas/Fertxu%20Mart%C3%ADnez/Hios/P1060266.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1695301916/artistas/Fertxu%20Mart%C3%ADnez/Hios/P1060267.jpg
 ---
+Hios
 
-H﻿ierro
+Burdina / H﻿ierro
 
 5﻿3x32x23 cm
 
