@@ -1,7 +1,7 @@
 ---
 titulo: ahgo
 artista: Fertxu Martínez
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1711386439/artistas/Fertxu%20Mart%C3%ADnez/ahgo.png
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1714338082/artistas/Fertxu%20Mart%C3%ADnez%20-%20Expo%20en%20Santurtxi/Sin_t%C3%ADtulo_-_copia.png
 ---
 https://youtu.be/FxCnf7cEeYo?si=lWg74esvSxLg8WZL
 
