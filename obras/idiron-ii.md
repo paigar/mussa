@@ -1,5 +1,5 @@
 ---
-titulo: Idiron I
+titulo: Idiron II
 artista: Fertxu Martínez
 exposicion:
   - Clara Campoamor
@@ -15,6 +15,7 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1695571503/artistas/Fertxu%20Mart%C3%ADnez/Idiron%20II/P1070034.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1695571503/artistas/Fertxu%20Mart%C3%ADnez/Idiron%20II/P1070033.jpg
 ---
+
 Idiron I
 
 Haritza / R﻿oble
