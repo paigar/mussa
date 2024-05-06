@@ -92,7 +92,7 @@ select {
 }
 
 :root {
-  --cabecera-altura-ext: 5rem;
+  --cabecera-altura-ext: 6rem;
   --cabecera-clr-fondo: rgba(255, 255, 255, 1);
   --clr-fondo: #fff;
   --clr-texto-100: #f0f1f2;
@@ -215,12 +215,16 @@ body {
   align-items: center;
 }
 .logo {
+  --letra-size: 0.75em;
   max-width: min(20rem, 60%);
   height: var(--cabecera-altura-ext);
-  padding: calc(0.25 * var(--cabecera-altura-ext)) 0
-    calc(0.25 * var(--cabecera-altura-ext));
+  padding: calc(0.15 * var(--cabecera-altura-ext)) 0
+    calc(0.15 * var(--cabecera-altura-ext));
   display: block;
   position: relative;
+  display: grid;
+  grid-template-rows: calc(100% - var(--letra-size) - 0.2em) var(--letra-size);
+  gap: 0.2em;
 }
 .logo svg {
   width: 100%;
@@ -228,6 +232,14 @@ body {
   object-fit: contain;
   object-position: top left;
   display: block;
+}
+.logo span {
+  color: var(--clr-accent);
+  font-size: var(--letra-size);
+  line-height: var(--letra-size);
+}
+.logo .ajustar img {
+  object-position: left center;
 }
 .menuppal {
   position: relative;
@@ -305,7 +317,7 @@ body {
 
 @media screen and (max-width: 60rem) {
   :root {
-    --cabecera-altura-ext: 4rem;
+    --cabecera-altura-ext: 5.1rem;
   }
   .iconomenu {
     width: 1.6rem;
@@ -606,7 +618,7 @@ main {
   --tiempo: 500ms;
 }
 .listado .elemento a {
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 4 / 3;
   display: block;
   position: relative;
   isolation: isolate;
@@ -921,6 +933,14 @@ main {
   color: var(--clr-accent);
   font-weight: normal;
   padding-left: 0.5em;
+}
+
+.todaslasobras .listado {
+  grid-template-columns: repeat(auto-fit, minmax(min(20rem, 100%), 1fr));
+  gap: 0.5rem;
+}
+.todaslasobras .elemento a {
+  aspect-ratio: 1;
 }
 
 @media screen and (min-width: 50rem) {

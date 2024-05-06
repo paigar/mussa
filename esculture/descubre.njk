@@ -4,7 +4,20 @@ titulo: Descubre
 templateClass: descubre
 ---
 {% set listado = collections.obras %}
-<div id="todaslasobras">
+
+<div class="contenedor">
+
+  <div class="artistas todaslasobras">
+    <h1 class="titulo fs3">Descubre</h1>
+    {% include "layouts/partials/listado.njk" %}
+  </div>
+</div>
+
+<br/><br/><br/><br/>
+
+{% include "layouts/partials/enlace_contacto.njk" %}
+
+{# <div id="todaslasobras">
   {%for elemento in listado %}
     <div class="unaobra" data-titulo="{{ elemento.data.titulo }}" data-imagen="{{ elemento.data.imagen }}" data-url="{{ elemento.url }}"></div>
   {% endfor %}
@@ -27,4 +40,4 @@ templateClass: descubre
   const imagen = todasLasObras[x].dataset.imagen;
   const url = todasLasObras[x].dataset.url;
   imagenObraElegida.innerHTML = '<a href="' + url + '"><img src="' + imagen + '" alt="' + titulo + '"><span class="titulo">' + titulo + '</a>'
-</script>
+</script> #}
