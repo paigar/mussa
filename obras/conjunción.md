@@ -1,0 +1,15 @@
+---
+titulo: Conjunción
+artista: Bárbara Camhi
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1717326601/artistas/B%C3%A1rbara%20Camhi/Conjunci%C3%B3n/P1090591.jpg
+video: https://res.cloudinary.com/dasijlpgz/video/upload/v1717326561/artistas/B%C3%A1rbara%20Camhi/Conjunci%C3%B3n/v%C3%ADdeo_web-1.mp4
+galeria:
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1717326601/artistas/B%C3%A1rbara%20Camhi/Conjunci%C3%B3n/P1090591.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1717326598/artistas/B%C3%A1rbara%20Camhi/Conjunci%C3%B3n/P1090585.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1717326598/artistas/B%C3%A1rbara%20Camhi/Conjunci%C3%B3n/P1090588.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1717326597/artistas/B%C3%A1rbara%20Camhi/Conjunci%C3%B3n/P1090584.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1717326600/artistas/B%C3%A1rbara%20Camhi/Conjunci%C3%B3n/P1090589.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1717326602/artistas/B%C3%A1rbara%20Camhi/Conjunci%C3%B3n/P1090593.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1717326604/artistas/B%C3%A1rbara%20Camhi/Conjunci%C3%B3n/P1090595.jpg
+---
+Platos rotos reconstruidos y ensamblados.
