@@ -13,3 +13,5 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1717326604/artistas/B%C3%A1rbara%20Camhi/Conjunci%C3%B3n/P1090595.jpg
 ---
 Platos rotos reconstruidos y ensamblados.
+
+En un abrazo perfecto estos dos platos rotos se vuelven a configurar como una nueva unidad que se sostiene por si misma.
