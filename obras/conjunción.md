@@ -12,6 +12,8 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1717501122/artistas/B%C3%A1rbara%20Camhi/Conjunci%C3%B3n/P1090595.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1717501118/artistas/B%C3%A1rbara%20Camhi/Conjunci%C3%B3n/P1090593.jpg
 ---
-Platos rotos reconstruidos y ensamblados.
+*Título:* Conjunción
 
-En un abrazo perfecto estos dos platos rotos se vuelven a configurar como una nueva unidad que se sostiene por si misma.
+*Técnica:* Platos rotos reconstruidos y ensamblados
+
+*Reseña:* En un abrazo perfecto estos dos platos rotos se vuelven a configurar como una nueva unidad que se sostiene por si misma.
