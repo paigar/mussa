@@ -13,8 +13,8 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1718217699/artistas/B%C3%A1rbara%20Camhi/Tazones%20rotos%20ensamblados/P1090649.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1718217698/artistas/B%C3%A1rbara%20Camhi/Tazones%20rotos%20ensamblados/P1090647.jpg
 ---
-Título: Ensambles de vidas I
+*Título:* Ensambles de vidas I
 
-Técnica: Tazones rotos ensamblados
+*Técnica:* Tazones rotos ensamblados
 
-Reseña: Dos tazas rotas han podido ser ensambladas solo gracias a sus fracturas. Un hecho que nos remite a nuestras vidas compartidas que sobreviven a pesar de las adversidades, desavenencias y desencuentros.
+*Reseña:* Dos tazas rotas han podido ser ensambladas solo gracias a sus fracturas. Un hecho que nos remite a nuestras vidas compartidas que sobreviven a pesar de las adversidades, desavenencias y desencuentros.
