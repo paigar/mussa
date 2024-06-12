@@ -14,4 +14,6 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1718221817/artistas/B%C3%A1rbara%20Camhi/Epicentro%20perfecto/P1090693.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1718221820/artistas/B%C3%A1rbara%20Camhi/Epicentro%20perfecto/P1090696.jpg
 ---
-Epicentro perfecto
+*Título:* Epicentro perfecto
+
+*Técnica:* Plato roto sobre mostrador de madera
