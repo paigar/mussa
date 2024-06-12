@@ -13,4 +13,6 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1717504065/artistas/B%C3%A1rbara%20Camhi/Mudanzas%20II/P1090610.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1717504066/artistas/B%C3%A1rbara%20Camhi/Mudanzas%20II/P1090609.jpg
 ---
-Ensaladera rota reconfigurada.
+*Título:* Mudanzas II
+
+*Técnica:* Ensaladera rota reconfigurada
