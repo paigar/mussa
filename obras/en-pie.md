@@ -12,4 +12,6 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1717500045/artistas/B%C3%A1rbara%20Camhi/En%20pie/P1090581.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1717500041/artistas/B%C3%A1rbara%20Camhi/En%20pie/P1090580.jpg
 ---
-Tazón roto sobre plato roto
+*Título*: En pie
+
+*Técnica:* Tazón roto sobre y plato roto
