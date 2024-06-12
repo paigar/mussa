@@ -15,6 +15,8 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1717360839/artistas/B%C3%A1rbara%20Camhi/Estado%20cr%C3%ADtico/P1090542.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1717360862/artistas/B%C3%A1rbara%20Camhi/Estado%20cr%C3%ADtico/P1090540.jpg
 ---
-Plato roto reconstruido, suspendido a través de un fragmento faltante.
+Título: Estado crítico
 
-Desde su punto de máxima vulnerabilidad suspende un plato roto que ha sido cuidadosamente reconstruido. A través de un fragmento faltante este plato es atravesado por un elemento punzante que, al suspenderlo, vuelve a poner en jaque esa estabilidad conseguida tras su fractura.
+Técnica: Plato roto reconstruido, suspendido a través de un fragmento faltante.
+
+Reseña:Desde su punto de máxima vulnerabilidad suspende un plato roto que ha sido cuidadosamente reconstruido. A través de un fragmento faltante este plato es atravesado por un elemento punzante que, al suspenderlo, vuelve a poner en jaque esa estabilidad conseguida tras su fractura.
