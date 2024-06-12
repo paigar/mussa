@@ -13,4 +13,8 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1718221453/artistas/B%C3%A1rbara%20Camhi/Soporte%20propio/P1090666.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1718221453/artistas/B%C3%A1rbara%20Camhi/Soporte%20propio/P1090665.jpg
 ---
-Soporte propio
+*Título:* Soporte propio
+
+*Técnica:* Tazón roto reconstruido, dispuesto de otra manera
+
+*Reseña:* Esta taza rota busca un modo de encuentro entre sus partes. Un equilibrio precario pero potente, la sostiene y vuelve a soportar, aludiendo a una nueva manera de estar tras una fractura.
