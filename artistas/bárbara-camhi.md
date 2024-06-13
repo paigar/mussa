@@ -2,6 +2,8 @@
 nombre: Bárbara Camhi
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1717321676/artistas/B%C3%A1rbara%20Camhi/Snapshot_191.png
 ---
+https://youtu.be/-WBHVf7sWvg
+
 Bárbara Camhi Jacard es una artista multidisciplinar con formación en arquitectura, diseño de interiores y artes visuales. En el campo de las artes desde 2014, actualmente vive en Bilbao, donde continúa desarrollando su práctica artística, además de cursar un Doctorado en Arte en la Universidad del País Vasco UPV/EHU.
 
 La producción artística de Bárbara Camhi se ha ido desarrollando en un contexto académico, dentro de su formación como artista, y en un contexto fuera del ámbito académico, creando un vínculo entre ambos mundos que ha ido nutriendo su desarrollo como artista.
