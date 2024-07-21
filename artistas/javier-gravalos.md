@@ -2,6 +2,8 @@
 nombre: Javier Gravalos
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1721564253/artistas/Javier%20Gravalos/Snapshot_196.png
 ---
+https://youtu.be/KuhH0xgiVUQ
+
 Javier Gravalos es escultor, es un escultor aglutinador. Un mezclador de ideas y conceptos estéticos que sintetiza y tamiza a la perfección gracias al gran conocimiento del material. El resultado son piezas equilibradas, poéticas y altamente sugestivas.
 
 Gravalos es autodidacta, Su escuela y conocimientos los ha adquirido con el análisis y estudio de la escultura histórica, incidiendo especialmente en la estética de la Escuela Vasca de Escultura el siglo XX.
