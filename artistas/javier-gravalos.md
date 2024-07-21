@@ -14,4 +14,4 @@ Su producción escultórica se inscribe siempre dentro de la abstracción. Las p
 
 Un sinfín de acabados para una escultura libre. Para una escultura de libertad…
 
-Pedro Galdón
+Pedro Galdón. Escultor.
