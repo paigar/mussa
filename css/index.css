@@ -410,7 +410,7 @@ main {
   object-fit: cover;
 }
 .imagencabecera {
-  height: min(100vh - var(--cabecera-altura-ext), 56.25vw);
+  height: min(100vh - var(--cabecera-altura-ext), 75vw);
   position: relative;
 }
 .titulohome {
@@ -688,6 +688,9 @@ main {
   height: 100%;
   width: auto;
 }
+.carousel-cell + .carousel-cell {
+  margin-top: 1rem;
+}
 .pie {
   background-color: #000;
   color: white;
@@ -950,10 +953,11 @@ main {
   }
   .tituloizq .titulo {
     text-align: right;
-    min-width: 8ch;
+    min-width: 40%;
   }
   .tituloizq .contenido {
     flex: 1;
+    min-width: 60%;
   }
   .infopie {
     width: 100%;
