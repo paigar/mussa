@@ -2,7 +2,7 @@
 titulo: Estela II
 artista: Javier Gravalos
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1721570537/artistas/Javier%20Gravalos/Estela%20II/P1100040.jpg
-video: https://res.cloudinary.com/dasijlpgz/video/upload/v1721808537/artistas/Javier%20Gravalos/Estela%20II/obra4_web.mp4
+video: https://res.cloudinary.com/dasijlpgz/video/upload/v1721809045/artistas/Javier%20Gravalos/Estela%20II/obra4.mp4
 galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1721570537/artistas/Javier%20Gravalos/Estela%20II/P1100040.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1721570536/artistas/Javier%20Gravalos/Estela%20II/P1100039.jpg
