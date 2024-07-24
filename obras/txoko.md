@@ -2,7 +2,7 @@
 titulo: Txoko
 artista: Javier Gravalos
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1721567593/artistas/Javier%20Gravalos/Txoko/P1100022.jpg
-video: https://res.cloudinary.com/dasijlpgz/video/upload/v1721567608/artistas/Javier%20Gravalos/Txoko/obra2.mp4
+video: https://res.cloudinary.com/dasijlpgz/video/upload/v1721810941/artistas/Javier%20Gravalos/Txoko/obra2-1.mp4
 galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1721567593/artistas/Javier%20Gravalos/Txoko/P1100022.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1721567594/artistas/Javier%20Gravalos/Txoko/P1100026.jpg
